@@ -19,6 +19,10 @@ export default createGlobalStyle`
     font: 16px, Roboto, sans-serif;
   }
 
+  a {
+    color: #666;
+  }
+
   #root {
     max-width: 960px;
     margin: 0 auto;
